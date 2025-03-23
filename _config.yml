@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Tianyu Huai(怀天宇)"
+title                    : "Tianyu Huai (怀天宇)"
 description              : "Graduate Student at ECNU"
 repository               : "YuTinH/yutinh.github.io"
 google_scholar_stats_use_cdn : false
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Tianyu Huai(怀天宇)"
+  name             : "Tianyu Huai\\(怀天宇)"
   avatar           : "images/pic.jpg"
   bio              :
   location         : "Shanghai, China"
