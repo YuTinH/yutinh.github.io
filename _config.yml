@@ -24,12 +24,12 @@ author:
   name             : "Tianyu Huai (怀天宇)"
   avatar           : "images/android-chrome-512x512.png"
   bio              :
-  location         : "Atlanta, GA"
+  location         : "Shanghai, China"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=bVF_CzUAAAAJ&hl=en"
-  email            : "siqi.miao@gatech.edu"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=CZFQVFoAAAAJ&hl=en"
+  email            : "tyhuai@stu.ecnu.edu.cn"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "siqim"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
@@ -51,13 +51,13 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : siqi_miao
+  twitter          : 
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
-  zhihu            : "https://www.zhihu.com/people/miao-si-qi"
+  zhihu            : 
 
 
 # Reading Files
