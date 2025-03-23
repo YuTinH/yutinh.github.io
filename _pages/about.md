@@ -24,10 +24,10 @@ I am a third-year graduate student majoring in Computer Science and Technology a
 
 
 # 🔥 News
-- *2025.02*: Our paper on Continual Learning of Multi-modal Large Language Models is accepted by the CVPR2025 Conference. Released on [arXiv](https://arxiv.org/abs/2503.00413).
+- *2025.02*: Our paper on Continual Learning of Multi-modal Large Language Models is accepted by the CVPR2025. Released on [arXiv](https://arxiv.org/abs/2503.00413).
 - *2025.01*: Our paper [Efficiency is the rule](https://www.sciencedirect.com/science/article/abs/pii/S0957417425005147) on Domain Adaptive Semantic Segmentation is accepted to ESWA.
 - *2024.01*: Our paper on Debiased Visual Question Answering is accepted by PRL and released on [here](https://www.sciencedirect.com/science/article/abs/pii/S0167865524000096).
-- *2023.03*: Our paper [SQT](https://www.sciencedirect.com/science/article/abs/pii/S0957417425005147) on VQA is released on [here](https://ieeexplore.ieee.org/abstract/document/10219581/).
+- *2023.03*: Our paper [SQT](https://www.sciencedirect.com/science/article/abs/pii/S0957417425005147) on VQA is accepeted by ICME2023 and released on [here](https://ieeexplore.ieee.org/abstract/document/10219581/).
 
 
 
