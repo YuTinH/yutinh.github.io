@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Siqi Miao (苗思奇)"
-description              : "PhD Student at Gatech"
-repository               : "siqim/siqim.github.io"
+title                    : "Tianyu Huai (怀天宇)"
+description              : "Graduate Student at ECNU"
+repository               : "YuTinH/tyhuai.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Siqi Miao (苗思奇)"
+  name             : "Tianyu Huai (怀天宇)"
   avatar           : "images/android-chrome-512x512.png"
   bio              :
   location         : "Atlanta, GA"
