@@ -19,11 +19,9 @@ redirect_from:
 
 I am a third-year graduate student majoring in Computer Science and Technology at [East China Normal University](https://www.ecnu.edu.cn/), School of Computer Science and Technology. I'm working on continual learning under the supervision of [Prof. Liang He](https://faculty.ecnu.edu.cn/_s16/hl2/main.psp) and [Prof. Jie Zhou](https://faculty.ecnu.edu.cn/_s16/zj2/main.psp). Before coming to East China Normal University, I graduated from Qufu Normal University with a bachelor's degree in software engineering. Currently, I focus on continual learning of multi-modal large language models. I have also researched domain adaptation learning, semantic segmentation, and visual question answering.
 
-**<span style="color:red">I am seeking PhD positions for Fall 2025. If you know of any exciting opportunities, please feel free to contact me!</span>**
+**<span style="color:red">I am seeking the collaboration of Continual Learning of LLMs. If you are also interested in Continual Learning, please feel free to communicate with me!</span>**
 
 
-
-<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 🔥 News
 - *2025.02*: Our paper on Continual Learning of Multi-modal Large Language Models is accepted by the CVPR2025 Conference. Released on [arXiv](https://arxiv.org/abs/2503.00413).
