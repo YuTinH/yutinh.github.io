@@ -35,11 +35,11 @@ I am a third-year graduate student majoring in Computer Science and Technology a
 # 📝 Publications
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/cvpr.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/cvpr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CL-MoE: Enhancing Multimodal Large Language Model with Dual Momentum Mixture-of-Experts for Continual Visual Question Answering](https://arxiv.org/abs/2503.00413) \\
-<u><strong>Tianyu Huai</strong></u>, Jie Zhou\*, Xingjiao Wu, Qin Chen, Qingchun Bai, Ze Zhou, Liang He. **Preprint 2025**\\
+<u><strong>Tianyu Huai</strong></u>, Jie Zhou\*, Xingjiao Wu, Qin Chen, Qingchun Bai, Ze Zhou, Liang He. **Preprint**\\
 (* Corresponding Author)\\
 The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (CVPR, CCF-A, TOP🔥🔥🔥)
 
@@ -76,7 +76,7 @@ Pattern Recognition Letters (PRL, SCI-District 3, IF=5.1)
 <div class='paper-box-text' markdown="1">
 
 [Sqt: Debiased visual question answering via shuffling question types](https://ieeexplore.ieee.org/abstract/document/10219581/) \\
-<u><strong>Tianyu Huai</strong></u>, Shuwen Yang, Junhang Zhang, Guoan Wang, Xinru Yu, Tianlong Ma\*, Liang He. **PRL**\\
+<u><strong>Tianyu Huai</strong></u>, Shuwen Yang, Junhang Zhang, Guoan Wang, Xinru Yu, Tianlong Ma\*, Liang He. **ICME**\\
 (* Corresponding Author)\\
 The IEEE International Conference on Multimedia and Expo 2023 (ICME, CCF-B)
 
