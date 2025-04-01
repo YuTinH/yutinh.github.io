@@ -42,6 +42,7 @@ I am a third-year graduate student majoring in Computer Science and Technology a
 <u><strong>Tianyu Huai</strong></u>, Jie Zhou\*, Xingjiao Wu, Qin Chen, Qingchun Bai, Ze Zhou, Liang He. **Preprint**\\
 (* Corresponding Author)\\
 The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (CVPR, CCF-A, TOP🔥🔥🔥)
+<a href="https://github.com/ECNU-ICALK/CL-MoE"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a>
 
 </div>
 </div>
