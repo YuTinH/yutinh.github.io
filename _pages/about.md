@@ -41,7 +41,7 @@ I am a third-year graduate student majoring in Computer Science and Technology a
 [CL-MoE: Enhancing Multimodal Large Language Model with Dual Momentum Mixture-of-Experts for Continual Visual Question Answering](https://arxiv.org/abs/2503.00413) \\
 <u><strong>Tianyu Huai</strong></u>, Jie Zhou\*, Xingjiao Wu, Qin Chen, Qingchun Bai, Ze Zhou, Liang He. **Preprint**\\
 (* Corresponding Author)\\
-The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (CVPR, CCF-A, TOP🔥🔥🔥)
+The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (Highlight paper, CCF-A, TOP🔥🔥🔥)
 <a href="https://github.com/ECNU-ICALK/CL-MoE"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a>
 
 </div>
@@ -55,7 +55,7 @@ The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (CVPR, C
 [Efficiency is the rule: Domain adaptive semantic segmentation with minimal annotations](https://www.sciencedirect.com/science/article/abs/pii/S0957417425005147) \\
 <u><strong>Tianyu Huai</strong></u>, Junhang Zhang, Xingjiao Wu\*, Jian Jin, Liang He. **ESWA**\\
 (* Corresponding Author)\\
-Expert Systems with Applications (ESWA, SCI-District 1, IF=7.5, TOP🔥🔥🔥)
+Expert Systems with Applications (SCI-District 1, IF=7.5, TOP🔥🔥🔥)
 
 </div>
 </div>
@@ -68,7 +68,7 @@ Expert Systems with Applications (ESWA, SCI-District 1, IF=7.5, TOP🔥🔥🔥)
 [Debiased visual question answering via the perspective of question types](https://www.sciencedirect.com/science/article/abs/pii/S0167865524000096) \\
 <u><strong>Tianyu Huai</strong></u>, Shuwen Yang, Junhang Zhang, Jiabao Zhao\*, Liang He. **PRL**\\
 (* Corresponding Author)\\
-Pattern Recognition Letters (PRL, SCI-District 3, IF=5.1)
+Pattern Recognition Letters (SCI-District 3, IF=5.1)
 
 </div>
 </div>
@@ -79,7 +79,7 @@ Pattern Recognition Letters (PRL, SCI-District 3, IF=5.1)
 [Sqt: Debiased visual question answering via shuffling question types](https://ieeexplore.ieee.org/abstract/document/10219581/) \\
 <u><strong>Tianyu Huai</strong></u>, Shuwen Yang, Junhang Zhang, Guoan Wang, Xinru Yu, Tianlong Ma\*, Liang He. **ICME**\\
 (* Corresponding Author)\\
-The IEEE International Conference on Multimedia and Expo 2023 (ICME, CCF-B)
+The IEEE International Conference on Multimedia and Expo 2023 (CCF-B)
 
 </div>
 </div>
