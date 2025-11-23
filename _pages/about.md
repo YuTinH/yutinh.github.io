@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first-year doctoral student majoring in Computer Science and Technology at [Shanghai Innovation Institute](https://www.sii.edu.cn/) [OpenMOSS Team](https://openmoss.github.io/openmoss.github.io.website/), under the supervision of [Prof. Xipeng Qiu](https://cs.fudan.edu.cn/qxp/list.htm). And I am also a student at [East China Normal University](https://www.ecnu.edu.cn/), School of Computer Science and Technology, under the supervision of [Prof. Liang He](https://faculty.ecnu.edu.cn/_s16/hl2/main.psp) and [Prof. Jie Zhou](https://faculty.ecnu.edu.cn/_s16/zj2/main.psp). Currently, I focus on continual learning for agents and AI for research. I have also researched domain adaptation learning, semantic segmentation, and visual question answering.
+I am a first-year doctoral student majoring in Computer Science and Technology at [Shanghai Innovation Institute](https://www.sii.edu.cn/), [OpenMOSS Team](https://openmoss.github.io/openmoss.github.io.website/), under the supervision of [Prof. Xipeng Qiu](https://cs.fudan.edu.cn/qxp/list.htm). And I am also a student at [East China Normal University](https://www.ecnu.edu.cn/), School of Computer Science and Technology, under the supervision of [Prof. Liang He](https://faculty.ecnu.edu.cn/_s16/hl2/main.psp) and [Prof. Jie Zhou](https://faculty.ecnu.edu.cn/_s16/zj2/main.psp). Currently, I focus on continual learning for agents and AI for research. I have also researched domain adaptation learning, semantic segmentation, and visual question answering.
 
 **<span style="color:red">I am seeking the collaboration of Continual Learning of LLMs. If you are also interested in Continual Learning, please feel free to communicate with me!</span>**
 
